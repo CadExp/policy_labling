@@ -1,7 +1,7 @@
 # policy_labling
 
 政策打标
-
+https://huggingface.co/models?sort=downloads&search=chinese
 ## 1. 打标
 1. 读取excel数据，title和content
 2. 读取label数据
